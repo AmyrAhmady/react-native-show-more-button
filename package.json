@@ -1,0 +1,23 @@
+{
+  "name": "react-native-show-more-button",
+  "version": "1.0.1",
+  "description": "'Show More' button to display more/less items which are inside of the <ShowMore> element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmyrAhmady/react-native-show-more-button.git"
+  },
+  "author": "iAmir <hhm6@yahoo.com>",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmyrAhmady/react-native-show-more-button/issues"
+  },
+  "homepage": "https://github.com/AmyrAhmady/react-native-show-more-button#readme"
+}
